@@ -19,6 +19,10 @@ class ViewController: UIViewController {
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
     }
+    
+    func awesomeFeatureX() {
+        println("This is an amazing feature")
+    }
 
 
 }
