@@ -40,6 +40,7 @@ class ViewController: UIViewController {
     
     func doubleBranchTest() {
         // Double Branch Test
+        println("Double Branch Test")
     }
     
 
