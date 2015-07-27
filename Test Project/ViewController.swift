@@ -24,7 +24,15 @@ class ViewController: UIViewController {
         // -.-
         println("This is an average feature")
     }
-
+    
+    func awesomeFeatureY() {
+        println("This is feature y")
+        
+        for i in 0...10 {
+            println(i)
+        }
+    }
+    
 
 }
 
