@@ -38,6 +38,10 @@ class ViewController: UIViewController {
         println("This is cool feature Q")
     }
     
+    func doubleBranchTest() {
+        // Double Branch Test
+    }
+    
 
 }
 
