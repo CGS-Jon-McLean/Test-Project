@@ -14,6 +14,10 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         println("Hello Git")
+        
+        awesomeFeatureX()
+        awesomeFeatureY()
+        awesomeFeatureQ()
     }
 
     override func didReceiveMemoryWarning() {
