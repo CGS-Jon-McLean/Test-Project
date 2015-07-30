@@ -23,4 +23,10 @@ class SecondViewController: UIViewController {
         // This is a really cool comment.
     }
     
+    func anotherCoolFeature() {
+        println("Another cool feature")
+        
+        // comment
+    }
+    
 }
