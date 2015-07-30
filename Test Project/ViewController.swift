@@ -18,6 +18,8 @@ class ViewController: UIViewController {
         awesomeFeatureX()
         awesomeFeatureY()
         awesomeFeatureQ()
+        
+        // this is a comment :D
     }
 
     override func didReceiveMemoryWarning() {
