@@ -13,6 +13,7 @@
 		FCB692181B5DE4B4005B09EE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FCB692171B5DE4B4005B09EE /* Images.xcassets */; };
 		FCB6921B1B5DE4B4005B09EE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = FCB692191B5DE4B4005B09EE /* LaunchScreen.xib */; };
 		FCB692271B5DE4B4005B09EE /* Test_ProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCB692261B5DE4B4005B09EE /* Test_ProjectTests.swift */; };
+		FCF4AA6C1B69E6B3005C89F3 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCF4AA6B1B69E6B3005C89F3 /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		FCB692201B5DE4B4005B09EE /* Test ProjectTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Test ProjectTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FCB692251B5DE4B4005B09EE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FCB692261B5DE4B4005B09EE /* Test_ProjectTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test_ProjectTests.swift; sourceTree = "<group>"; };
+		FCF4AA6B1B69E6B3005C89F3 /* SecondViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				FCB692171B5DE4B4005B09EE /* Images.xcassets */,
 				FCB692191B5DE4B4005B09EE /* LaunchScreen.xib */,
 				FCB6920E1B5DE4B4005B09EE /* Supporting Files */,
+				FCF4AA6B1B69E6B3005C89F3 /* SecondViewController.swift */,
 			);
 			path = "Test Project";
 			sourceTree = "<group>";
@@ -212,6 +215,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FCF4AA6C1B69E6B3005C89F3 /* SecondViewController.swift in Sources */,
 				FCB692131B5DE4B4005B09EE /* ViewController.swift in Sources */,
 				FCB692111B5DE4B4005B09EE /* AppDelegate.swift in Sources */,
 			);
@@ -409,6 +413,7 @@
 				FCB6922C1B5DE4B4005B09EE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FCB6922D1B5DE4B4005B09EE /* Build configuration list for PBXNativeTarget "Test ProjectTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +422,7 @@
 				FCB6922F1B5DE4B4005B09EE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
