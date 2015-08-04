@@ -16,7 +16,7 @@ class ViewController: UIViewController {
         println("Hello Git")
         
         awesomeFeatureX()
-        awesomeFeatureY()
+        awesomeFeatureZ()
         awesomeFeatureZ()
         
         // this is a comment :D
@@ -31,7 +31,7 @@ class ViewController: UIViewController {
         println("This is an average feature")
     }
     
-    func awesomeFeatureY() {
+    func awesomeFeatureZ() {
         println("This is feature y")
         
         for i in 0...10 {
@@ -39,7 +39,7 @@ class ViewController: UIViewController {
         }
     }
     
-    func awesomeFeatureZ() {
+    func awesomeFeatureU() {
         // This is feature Q
         println("This is cool feature Q")
     }
