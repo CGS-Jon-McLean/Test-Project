@@ -39,7 +39,7 @@ class ViewController: UIViewController {
         }
     }
     
-    func awesomeFeatureU() {
+    func awesomeFeatureI() {
         // This is feature Q
         println("This is cool feature Q")
     }
