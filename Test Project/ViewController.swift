@@ -17,7 +17,7 @@ class ViewController: UIViewController {
         
         awesomeFeatureX()
         awesomeFeatureY()
-        awesomeFeatureQ()
+        awesomeFeatureZ()
         
         // this is a comment :D
     }
@@ -39,7 +39,7 @@ class ViewController: UIViewController {
         }
     }
     
-    func awesomeFeatureQ() {
+    func awesomeFeatureZ() {
         // This is feature Q
         println("This is cool feature Q")
     }
